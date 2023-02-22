@@ -1,0 +1,52 @@
+.formView {
+  width: 30%;
+  margin: auto;
+  background-color: #c0c0c0;
+  border: solid;
+  border-radius: 4px;
+  border-color: #c0c0c0;
+}
+.formView h2 {
+  width: fit-content;
+  margin: auto;
+}
+.formInput {
+  width: 80%;
+  height: 2rem;
+  margin: auto;
+  margin-top: 8px;
+  display: block;
+  border-radius: 4px;
+  border: solid;
+  border-width: 2px;
+  border-color: gray;
+}
+.formButton {
+  display: block;
+  margin: 8px 10%;
+  background-color: #040464;
+  border-radius: 4px;
+  border: solid;
+  border-color: #040464;
+  color: #ffffff;
+  font-size: larger;
+}
+.selectInput {
+  width: 80%;
+  height: 2rem;
+  margin: auto;
+  margin-top: 8px;
+  display: block;
+  border-radius: 4px;
+  border: solid;
+  border-width: 1px;
+  border-color: #808080;
+  background-color: #ffffff;
+  padding-left: 1rem;
+}
+.note {
+  color: red;
+  font-weight: bold;
+  width: 80%;
+  margin: auto;
+}
